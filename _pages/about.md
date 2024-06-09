@@ -14,4 +14,4 @@ I am now a visiting Ph.D. student at Singapore University of Technology and Desi
 
 Publication
 ======
-coming soon.
+Coming soon.
