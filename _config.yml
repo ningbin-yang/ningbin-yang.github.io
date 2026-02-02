@@ -22,10 +22,10 @@ repository               : "ningbin-yang/ningbin-yang.github.io"
 author:
   # Biographic information
   avatar           : "man.png"
-  name             : "Ningbin Yang (杨宁滨)"
+  name             : "Ningbin Yang"
   pronouns         : # example: "she/her"  
   bio              : "Posdoc"
-  location         : "Singapore"
+  location         : "China"
   employer         : "Wuhan University"
   uri              : # URL
   email            : "ningbinyang@whu.edu.cn" 
